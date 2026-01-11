@@ -6,7 +6,7 @@
 </p>
 
 I am currently a **final-year Computer Science student** specializing in **Big Data and Data Analysis**.  
-I am passionate about bridging large-scale data processing with **Artificial Intelligence** to build **secure, autonomous systems**.
+who is passionate about bridging large-scale data processing with **Artificial Intelligence**
 
 
 ## 💻 Technical AI & Data Stack
