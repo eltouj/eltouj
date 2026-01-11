@@ -52,14 +52,6 @@ I am passionate about bridging large-scale data processing with **Artificial Int
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="80" height="80" />
 </div>
 
----
-
-## 📊 GitHub Performance
-<p align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=eltouj&theme=radical" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
