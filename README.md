@@ -1,8 +1,8 @@
 # 💫 About Me
-### **Computer Science Student | Big Data Specialist | AI Enthusiast**
+### **Computer Science Student | Big Data Specialist **
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Big+Data+%26+AI+Enthusiast;Computer+Science+Student;Building+Intelligent+Systems;FastAPI+%7C+Spark+%7C+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Big+Data+%26+AI;Computer+Science+Student;Building+Intelligent+Systems;FastAPI+%7C+Spark+%7C+Machine+Learning" />
 </p>
 
 I am currently a **final-year Computer Science student** specializing in **Big Data and Data Analysis**.  
@@ -50,13 +50,6 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 
 ---
 
-## 🎯 Current Focus
-- 🚀 Big Data Analytics with Spark & Hadoop
-- 🤖 Machine Learning & AI Systems
-- ☁️ Cloud-native architectures
-- 🔐 Secure & autonomous intelligent systems
-
----
 
 ## 📊 GitHub Performance
 
