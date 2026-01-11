@@ -1,11 +1,9 @@
 # 💫 About Me
-### **Computer Science Student | Big Data Specialist | Aspiring AI Architect**
+### **Computer Science Student | Big Data Specialist **
 
 I am currently a final-year student specializing in **Big Data and Data Analysis**. I am passionate about bridging the gap between large-scale data processing and **Artificial Intelligence** to build secure, autonomous systems.
 
-- 🔭 **Focus:** Mastering Neural Networks, Reinforcement Learning, and AI Security.
-- 🎓 **Goal:** Pursuing an MSc in Data Science to become an AI Specialist.
-- ⚡ **Interest:** Scalable ML systems (MLSecOps) and Autonomous Technologies.
+
 
 ---
 
