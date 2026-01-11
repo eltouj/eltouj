@@ -89,3 +89,4 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 ---
 
 ![snake gif](https://github.com/eltouj/eltouj/blob/output/github-contribution-grid-snake.svg)
+
