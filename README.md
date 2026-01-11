@@ -53,13 +53,7 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 
 ## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eltouj&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltouj&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=eltouj&theme=radical" />
@@ -67,12 +61,6 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eltouj&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
