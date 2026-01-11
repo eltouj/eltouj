@@ -11,48 +11,48 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/y--d" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" style="margin: 40px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" />
   </a>
   <a href="mailto:youssefdammak41@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="80" height="80" style="margin: 40px;" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="80" height="80" />
   </a>
   <a href="https://www.facebook.com/share/1DgMnMrfcF/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80" style="margin: 40px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80" />
   </a>
   <a href="https://www.instagram.com/yousse_dammak11" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="80" height="80" style="margin: 40px;" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="80" height="80" />
   </a>
-</p>
+</div>
 
 ---
 
 ## 💻 Technical AI & Data Stack
 
 ### **Languages & Core**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="80" style="margin: 40px;" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="80" />
+</div>
 
 ### **AI, Data & Cloud**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80" height="80" style="margin: 40px;" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80" height="80" />
+</div>
 
 ### **Web Frameworks**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" style="margin: 40px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="80" height="80" style="margin: 40px;" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="80" height="80" />
+</div>
 
 ---
 
@@ -71,4 +71,3 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 ---
 
 ![snake gif](https://github.com/eltouj/eltouj/blob/output/github-contribution-grid-snake-dark.svg)
-
