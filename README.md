@@ -15,9 +15,7 @@ I am passionate about bridging large-scale data processing with **Artificial Int
   <a href="https://www.linkedin.com/in/y--d" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" />
   </a>
-  <a href="mailto:youssefdammak41@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="80" height="80" />
-  </a>
+
   <a href="https://www.facebook.com/share/1DgMnMrfcF/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80" />
   </a>
