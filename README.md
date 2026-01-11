@@ -13,16 +13,16 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/y--d" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" style="margin: 15px;" />
   </a>
   <a href="mailto:youssefdammak41@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="80" height="80" style="margin: 15px;" />
   </a>
   <a href="https://www.facebook.com/share/1DgMnMrfcF/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80" style="margin: 15px;" />
   </a>
   <a href="https://www.instagram.com/yousse_dammak11" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="80" height="80" style="margin: 15px;" />
   </a>
 </p>
 
@@ -32,26 +32,26 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 
 ### **Languages & Core**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"/>
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="80" style="margin: 15px;" />
 </p>
 
 ### **AI, Data & Cloud**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80" height="80" style="margin: 15px;" />
 </p>
 
 ### **Web Frameworks**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="80" height="80" style="margin: 15px;" />
 </p>
 
 ---
@@ -71,3 +71,4 @@ I am passionate about bridging large-scale data processing with **Artificial Int
 ---
 
 ![snake gif](https://github.com/eltouj/eltouj/blob/output/github-contribution-grid-snake-dark.svg)
+
