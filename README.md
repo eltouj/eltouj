@@ -31,12 +31,13 @@ I am currently a final-year student specializing in **Big Data and Data Analysis
 
 ## 📊 Performance & Insights
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eltouj&theme=radical&show_icons=true&count_private=true&cache_seconds=1800" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltouj&theme=radical&layout=compact&cache_seconds=1800" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Specialization-Big_Data-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Target-AI_Specialist-blueviolet?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 <p align="center">
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=eltouj&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eltouj&theme=radical&show_icons=true&count_private=true" onerror="this.src='https://img.shields.io/badge/Stats-Loading_from_Github-orange?style=flat-square&logo=github'" />
 </p>
 
 ---
