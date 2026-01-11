@@ -31,8 +31,8 @@ I am currently a final-year student specializing in **Big Data and Data Analysis
 
 ## 📊 Performance & Insights
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eltouj&theme=radical&show_icons=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltouj&theme=radical&layout=compact" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eltouj&theme=radical&show_icons=true&count_private=true&cache_seconds=1800" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltouj&theme=radical&layout=compact&cache_seconds=1800" />
 </p>
 
 <p align="center">
